@@ -1,7 +1,7 @@
 Another Typescript Generator
 ====================
 
-Another Typescript Generator is a Gradle plugin that generates Typescript interfaces from Kotlin/Java classes. Each class generates a new
+Another Typescript Generator is a Gradle plugin that generates Typescript types from Kotlin/Java classes. Each class generates a new
 file to prevent collision.
 
 # Important notes
